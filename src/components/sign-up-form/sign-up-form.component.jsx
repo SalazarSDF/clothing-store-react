@@ -25,7 +25,6 @@ const SignUpForm = () => {
   };
 
   const handleSubmit = async (event) => {
-    //let x = await createAuthUserWithEmailAndPassword(email, password);
     event.preventDefault();
     if (password !== confirmPassword) {
       alert("passwords not the same");
