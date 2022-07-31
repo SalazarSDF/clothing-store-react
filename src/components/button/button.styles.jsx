@@ -44,9 +44,3 @@ export const InvertedButton = styled(BaseButton)`
     border: none;
   }
 `;
-
-// .button-container {
-
-//   //     }
-//   }
-// }
